@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Oklahoma, US
 
-> Free BeamStation sample export with 80 rows and masked direct-contact fields.
+> Free BeamStation sample export with 154 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `681688` |
 | Location | Oklahoma |
 | Category | Restaurants |
-| Full dataset size | 807 records |
-| Free sample size | 80 records (9.91%) |
-| Last export | 2026-04-22T09:26:23.041751+00:00 |
+| Full dataset size | 1,544 records |
+| Free sample size | 154 records (9.97%) |
+| Last export | 2026-04-29T10:56:32.343624+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-oklahoma-us-sample-681688/releases/download/sample-latest/beamstation_681688_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
